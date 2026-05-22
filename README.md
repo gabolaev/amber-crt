@@ -1,6 +1,6 @@
 # Amber CRT
 
-A VS Code theme pack inspired by 80s CRT monitors.
+A VS Code theme pack inspired by 80s CRT monitors and the retrofuturist amber terminals of the Time Variance Authority from Marvel's *Loki*.
 
 ![Amber CRT preview](img/vscode.png)
 
@@ -17,5 +17,7 @@ git clone https://github.com/gabolaev/amber-crt ~/.vscode/extensions/amber-crt
 ```
 
 Restart VS Code, then pick **Amber CRT**, **Amber CRT Daylight**, or **Amber CRT Phosphor** from `Preferences: Color Theme`. Phosphor lives under the **High Contrast** category.
+
+----
 
 ![tva](img/tva.png)
