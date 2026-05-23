@@ -12,13 +12,7 @@ Ships three variants:
 - **Daylight CRT** — light, sun-bleached parchment background with rust-orange accents; the same palette logic rebalanced for a bright surface.
 - **Amber CRT Phosphor** — high-contrast, pure-black background with a monochrome ladder of saturated orange shades. MS-DOS 5.0 boot screen energy.
 
-## Install
-
-### From the Marketplace
-
-Open the extension in VS Code with [this link](vscode:extension/gabolaev.amber-crt-screen) and hit the "Install" button
-
-### Manually
+## Install Manually
 
 ```bash
 git clone https://github.com/gabolaev/amber-crt ~/.vscode/extensions/amber-crt
